@@ -104,7 +104,7 @@ const App = () => {
   return (
     <div className="main-container">
       <h1 className="title">Yu-Gi-Oh Memory Game</h1>
-      <p className="gold-text">Get points by clicking on an image but don't click on an image more than once!</p>
+      <p className="gold-text">Get points by clicking on a monster card but don't click on a card more than once!</p>
 
       <Scoreboard score={score} />
 
