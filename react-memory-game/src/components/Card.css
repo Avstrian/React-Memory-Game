@@ -1,0 +1,12 @@
+.card {
+    width: 14vw;
+    height: 30vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.card:hover {
+    cursor: pointer;
+    border-left: 6px gold solid;
+    border-radius: 5px 0 0 5px;
+}

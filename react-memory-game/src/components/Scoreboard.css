@@ -1,0 +1,11 @@
+.score-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    background-color: burlywood;
+    padding: 0 25px;
+    border: 5px solid brown;
+    margin-bottom: 10px;
+}
